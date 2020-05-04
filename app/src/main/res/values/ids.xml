@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSet" type="id" />
+    <item name="btnUnset" type="id" />
+    <item name="radioO" type="id" />
+</resources>
